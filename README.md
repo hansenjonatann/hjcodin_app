@@ -1,2 +1,1 @@
-# hjcodin_app
-HJ Codin APP 
+<h1 style="text-align:center; font-weight:bold;">HJ Codin </h1>
